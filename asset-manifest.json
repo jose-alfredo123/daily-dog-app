@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/daily-dog-app/static/css/main.ebe44358.chunk.css",
+    "main.js": "/daily-dog-app/static/js/main.1957a76f.chunk.js",
+    "main.js.map": "/daily-dog-app/static/js/main.1957a76f.chunk.js.map",
+    "runtime~main.js": "/daily-dog-app/static/js/runtime~main.1661b829.js",
+    "runtime~main.js.map": "/daily-dog-app/static/js/runtime~main.1661b829.js.map",
+    "static/js/2.6e43e534.chunk.js": "/daily-dog-app/static/js/2.6e43e534.chunk.js",
+    "static/js/2.6e43e534.chunk.js.map": "/daily-dog-app/static/js/2.6e43e534.chunk.js.map",
+    "index.html": "/daily-dog-app/index.html",
+    "precache-manifest.f3f3172a74e9b1947a2dba8d1db645ea.js": "/daily-dog-app/precache-manifest.f3f3172a74e9b1947a2dba8d1db645ea.js",
+    "service-worker.js": "/daily-dog-app/service-worker.js",
+    "static/css/main.ebe44358.chunk.css.map": "/daily-dog-app/static/css/main.ebe44358.chunk.css.map",
+    "static/media/styles.css": "/daily-dog-app/static/media/dog_and_cat_pattern-21.ddd81f62.jpg"
+  }
+}
